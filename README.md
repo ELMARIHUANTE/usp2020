@@ -10,7 +10,7 @@ gr.greetItalian();
 
 }
 public void greetEnglish(){
-System.out.printIn("Hello);
+System.out.printIn("Hello promeni);
 }
 public void greetItalian(){
 System.out.printIn("Ciao255888");
